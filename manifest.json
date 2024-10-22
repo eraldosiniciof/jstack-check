@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "JStack Check",
+  "version": "1.0",
+  "description": "Uma extensão para marcar uma aula, do JStack, como concluída",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
